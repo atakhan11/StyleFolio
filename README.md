@@ -10,6 +10,8 @@ StyleFolio is an AI-powered web application that helps users manage their virtua
 - Responsive design for all devices
 - State management using Redux / Context API
 - Optimized UI with modern React practices
+- Integrated AI chatbot for interactive user assistance
+- Weather-based AI-driven outfit recommendation system
 
 ## 🛠 Tech Stack
 
