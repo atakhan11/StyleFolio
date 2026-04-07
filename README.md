@@ -21,3 +21,12 @@ StyleFolio is an AI-powered web application that helps users manage their virtua
 - Axios
 - Vite
 - CSS / Responsive Design
+
+## 🔗 API
+
+This project integrates external APIs to fetch real-time data such as weather information.
+
+👨‍💻 Author
+Ataxan Hacizade
+GitHub: github.com/atakhan11
+LinkedIn: linkedin.com/in/atakhan-hajizade
