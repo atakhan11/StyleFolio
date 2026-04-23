@@ -17,6 +17,7 @@ StyleFolio is an AI-powered web application that helps users manage their virtua
 
 - React
 - JavaScript (ES6+)
+- Node.js
 - Redux / Context API
 - Axios
 - Vite
